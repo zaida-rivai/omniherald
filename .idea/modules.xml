@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../astrowind/astrowind.iml" filepath="$PROJECT_DIR$/../../astrowind/astrowind.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/omniherald.iml" filepath="$PROJECT_DIR$/.idea/omniherald.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spydea-astro/spydea-astro.iml" filepath="$PROJECT_DIR$/../spydea-astro/spydea-astro.iml" />
     </modules>
   </component>
 </project>
